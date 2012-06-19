@@ -23,5 +23,6 @@
     "keywords": ["ws-security", "mtom", "ws-addressing", "ws-star", "ws-*", "web service standards", "wsdl", "soap"],
     "licenses": [{ 
         "type" :  "MIT License",
-        "url" :   "http://www.opensource.org/licenses/mit-license.php" }]
+        "url" :   "http://www.opensource.org/licenses/mit-license.php" }],
+    "private": "true"
 }
